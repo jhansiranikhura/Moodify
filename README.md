@@ -11,8 +11,6 @@ Moodify is a web application designed to enhance your music experience by creati
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: [Specify backend technology if applicable, e.g., Node.js, Django]
-- **APIs**: [List any external APIs used, e.g., Spotify API for music data]
 
 ## Installation
 
