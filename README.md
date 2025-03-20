@@ -7,7 +7,6 @@ You can see the website live at: https://jhansiranikhura.github.io/Moodify/
 ## Features
 
 - **Mood Detection**: Input your current mood to receive a tailored playlist.
-- **Personalized Playlists**: Generates playlists based on your recent listening history and mood analysis.
 - **User-Friendly Interface**: Simple and intuitive design for seamless interaction.
 
 ## Technologies Used
