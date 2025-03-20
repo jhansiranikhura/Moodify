@@ -2,6 +2,8 @@
 
 Moodify is a web application designed to enhance your music experience by creating personalized playlists that align with your current mood. By analyzing user input, Moodify curates a selection of tracks to match your emotional state.
 
+You can see the website live at: https://jhansiranikhura.github.io/Moodify/
+
 ## Features
 
 - **Mood Detection**: Input your current mood to receive a tailored playlist.
